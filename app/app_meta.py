@@ -31,5 +31,3 @@ def register_desktop_menu():
         controller,
         menu_root=desktop.MainMenu.SubMenu('Demo')
     )
-
-#test_m3_project
